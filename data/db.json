@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque lobortis pellentesque urna, vitae blandit leo commodo id. Proin tortor tellus, dapibus id porttitor ut, efficitur in lorem. Proin sodales ullamcorper dignissim. Vivamus quis cursus sem. Nunc id diam mattis, suscipit tellus ac, egestas dui. Cras viverra vitae ipsum ac euismod. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam aliquam purus eget velit aliquet fringilla. Pellentesque aliquet justo at nisl cursus euismod. Nullam et viverra tortor. Integer nisi massa, volutpat sed arcu facilisis, maximus placerat neque. Aenean varius sodales ligula. Etiam varius auctor mi, vitae aliquet diam eleifend eu. Nulla congue libero mauris.",
+      "author": "Laurel",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "Vivamus rhoncus velit vel neque ultrices bibendum. Nulla aliquet ut ipsum eget rhoncus. Sed fringilla sem dui, nec tempor lorem feugiat id. Vivamus porta malesuada nibh, vel pellentesque nunc faucibus at. Vestibulum et ullamcorper ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "author": "Axe",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Sed ultrices gravida pretium. In lacus ex, pretium iaculis tempor non, dictum ac ligula. Quisque eleifend bibendum urna a fermentum. Nullam in libero sit amet ipsum cursus porttitor.",
+      "author": "Noman",
+      "id": 3
+    }
+  ]
+}
