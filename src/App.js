@@ -6,6 +6,7 @@ import BlogPost from "./components/BlogPost";
 import PageNotFound from "./components/PageNotFound";
 
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Footer from "./components/Footer";
 
 function App() {
 	// Returning the root App page
@@ -31,6 +32,7 @@ function App() {
 						</Route>
 					</Switch>
 				</div>
+				<Footer />
 			</div>
 		</Router>
 	);
